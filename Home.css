@@ -1,0 +1,79 @@
+ .u-section-1 {
+  background-image: url("images/7acdfdfaa5323a52bc5e071dbde0ebfd36eb23a036d5b478c086f777e9b8f54d5043c75ca4b0e1d849d0900996f167201b85dbf7acfd9463cc95e9_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 594px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 46px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 201px;
+  height: 201px;
+  background-image: url("images/Hallyma.jpg");
+  background-position: 50% 50%;
+  margin: 32px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 77px 323px 0 auto;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: -49px auto 60px 336px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 490px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 123px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 136px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 375px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 281px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 177px;
+  }
+}
